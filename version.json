@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "release_date": "29/09/2026",
-  "release_notes": "### 🚀 Phiên bản chính thức đầu tiên — Dữ liệu Thuế TNCN v1.0.0\n- Tải và quản lý tờ khai thuế TNCN (02/KK-TNCN tháng/quý, 02/QTT-TNCN năm), thông báo, nghĩa vụ thuế và giấy nộp tiền từ cả 2 cổng thuế.\n- Kho tờ khai: lưu tập trung, xem được ngay kể cả khi chưa đăng nhập cổng; hỗ trợ kho chung cho cả nhóm khách hàng.\n- Tình trạng nợ & Tổng hợp công ty: cảnh báo theo cấp (KHẨN / nợ diện cưỡng chế / nợ thường), sắp xếp theo nhóm khách hàng.\n- Lịch tự động quét cổng và nhắc qua thông báo Windows.\n- Tiện ích: tra cứu nợ & danh sách hoãn xuất cảnh, tính tiền chậm nộp, đọc giấy nộp tiền (OCR).\n- Tự kiểm tra và cài bản cập nhật ngay trong app — dữ liệu và cài đặt giữ nguyên.",
-  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.0/DuLieuThueTNCN_Setup_v1.0.0_x64.exe",
-  "sha256": "1ed6a1fff99b0b4cd51c0aa311307ef0a81c06d127de43dc450f274e039ec7e1",
+  "release_notes": "### 🚀 Bản cập nhật 1.0.1\n- Gỡ Giấy nộp tiền nạp nhầm hoặc nạp trùng: Kho tờ khai → chuột phải cột kỳ → \"🗑 Gỡ Giấy nộp tiền…\" (app tự nhận ra bản trùng, gợi ý chuyển đúng kỳ; file được cất vào thư mục _DA_GO, không xoá hẳn).\n- Sửa lỗi \"Sửa GNT\" / \"Xác nhận kỳ\" báo không tìm thấy với giấy nạp bằng \"Nạp Giấy nộp tiền cho kỳ này\"; nạp folder tự bỏ qua giấy trùng hoặc đã gỡ.\n- Nhớ cài đặt hiển thị (thu phóng, Sáng/Tối, cột…) khi mở lại app; \"Tự canh theo màn hình\" vừa vặn hơn trên laptop.\n- Xem thời hạn sử dụng ngay trong app (thanh bên trái, Thiết lập → Giấy phép sử dụng).\n- Thêm nhóm khách hàng khai luôn Leader và kho chung; bàn giao dữ liệu mang theo Leader của nhóm, chỉ gồm nhóm của người được chọn.",
+  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.1/DuLieuThueTNCN_Setup_v1.0.1_x64.exe",
+  "sha256": "375eb4fbcf6a242e43c38fa029e2a2419cb4079274eb13801dafb1be6fbc9854",
   "min_app_version": "1.0.0"
 }
