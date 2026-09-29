@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.0.0",
+  "release_date": "29/09/2026",
+  "release_notes": "### 🚀 Phiên bản chính thức đầu tiên — Dữ liệu Thuế TNCN v1.0.0\n- Tải và quản lý tờ khai thuế TNCN (02/KK-TNCN tháng/quý, 02/QTT-TNCN năm), thông báo, nghĩa vụ thuế và giấy nộp tiền từ cả 2 cổng thuế.\n- Kho tờ khai: lưu tập trung, xem được ngay kể cả khi chưa đăng nhập cổng; hỗ trợ kho chung cho cả nhóm khách hàng.\n- Tình trạng nợ & Tổng hợp công ty: cảnh báo theo cấp (KHẨN / nợ diện cưỡng chế / nợ thường), sắp xếp theo nhóm khách hàng.\n- Lịch tự động quét cổng và nhắc qua thông báo Windows.\n- Tiện ích: tra cứu nợ & danh sách hoãn xuất cảnh, tính tiền chậm nộp, đọc giấy nộp tiền (OCR).\n- Tự kiểm tra và cài bản cập nhật ngay trong app — dữ liệu và cài đặt giữ nguyên.",
+  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.0/DuLieuThueTNCN_Setup_v1.0.0_x64.exe",
+  "sha256": "1ed6a1fff99b0b4cd51c0aa311307ef0a81c06d127de43dc450f274e039ec7e1",
+  "min_app_version": "1.0.0"
+}
