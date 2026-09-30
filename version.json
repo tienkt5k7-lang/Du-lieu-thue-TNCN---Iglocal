@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.1",
-  "release_date": "29/09/2026",
-  "release_notes": "### 🚀 Bản cập nhật 1.0.1\n- Gỡ Giấy nộp tiền nạp nhầm hoặc nạp trùng: Kho tờ khai → chuột phải cột kỳ → \"🗑 Gỡ Giấy nộp tiền…\" (app tự nhận ra bản trùng, gợi ý chuyển đúng kỳ; file được cất vào thư mục _DA_GO, không xoá hẳn).\n- Sửa lỗi \"Sửa GNT\" / \"Xác nhận kỳ\" báo không tìm thấy với giấy nạp bằng \"Nạp Giấy nộp tiền cho kỳ này\"; nạp folder tự bỏ qua giấy trùng hoặc đã gỡ.\n- Nhớ cài đặt hiển thị (thu phóng, Sáng/Tối, cột…) khi mở lại app; \"Tự canh theo màn hình\" vừa vặn hơn trên laptop.\n- Xem thời hạn sử dụng ngay trong app (thanh bên trái, Thiết lập → Giấy phép sử dụng).\n- Thêm nhóm khách hàng khai luôn Leader và kho chung; bàn giao dữ liệu mang theo Leader của nhóm, chỉ gồm nhóm của người được chọn.",
-  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.1/DuLieuThueTNCN_Setup_v1.0.1_x64.exe",
-  "sha256": "375eb4fbcf6a242e43c38fa029e2a2419cb4079274eb13801dafb1be6fbc9854",
+  "latest_version": "1.0.0",
+  "release_date": "30/09/2026",
+  "release_notes": "### 🚀 Bản cập nhật 1.0.0\n- Quản lý có thể gia hạn hoặc đổi quyền cho bạn từ xa: app tự nhận trong khoảng 10 phút, không cần dán lại license. Muốn nhận ngay: Thiết lập → Giấy phép sử dụng → \"Kiểm tra lại ngay\".\n- Khi license hết hạn hoặc bị thu hồi lúc đang dùng, app hiện rõ lý do trên màn kích hoạt; được gia hạn xong app tự vào lại.\n- Dòng \"License còn N ngày\" ở thanh bên tự cập nhật, không cần mở lại app.\n- Củng cố kiểm tra giấy phép sử dụng.",
+  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.0/DuLieuThueTNCN_Setup_v1.0.0_x64.exe",
+  "sha256": "52f0c604d6485dd8b1b41ca1b1838481ab12c5b2a71e0bacf30aebe1f5761596",
   "min_app_version": "1.0.0"
 }
