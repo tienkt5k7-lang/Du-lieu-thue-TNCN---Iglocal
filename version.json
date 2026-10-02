@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.1",
-  "release_date": "01/10/2026",
-  "release_notes": "### 🚀 Bản cập nhật 1.0.1\n- Đồng bộ công ty: mỗi người trỏ tới thư mục riêng của mình; khi thư mục chưa được cấp quyền ghi, app báo rõ nguyên nhân và không còn bị đứng.\n- Nhận diện máy chính xác hơn; báo cáo tự được chuyển sang đúng thư mục khi bạn đổi Mã nhân viên.\n- Màn Tổng hợp công ty hiển thị rõ nội dung quyết định cưỡng chế (biện pháp, số quyết định, ngày) và tên nhân viên đầy đủ.\n- Sửa một số lỗi nhỏ.",
-  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.1/DuLieuThueTNCN_Setup_v1.0.1_x64.exe",
-  "sha256": "06ad8240a0bdbff0a326341e8d278a4d415bde3a034ab1d2737ce99eb718f011",
+  "latest_version": "1.0.2",
+  "release_date": "02/10/2026",
+  "release_notes": "### 🚀 Bản cập nhật 1.0.2\n- Nhập danh bạ từ Excel: file mẫu có thêm Cơ quan thuế, Số hộ chiếu/CCCD, Quốc tịch. Chỉ cần điền MST và thông tin mới để cập nhật hàng loạt (ví dụ đổi số hộ chiếu). Ô để trống thì giữ nguyên dữ liệu cũ. Nếu trùng với dữ liệu đang có, app hỏi ghi đè hay giữ lại, và tự sao lưu trước khi nhập. Xuất Excel danh bạ có thêm 2 cột mới, xuất ra sửa xong nhập lại được.\n- Nhập mật khẩu hàng loạt: app báo rõ bao nhiêu cổng được thay mật khẩu cũ, bao nhiêu cổng đặt mới, và MST nào chưa có trong danh bạ để bạn soát lại. Tự sao lưu trước khi đổi.\n- Khoá màn hình: nhập sai nhiều lần sẽ bị khoá, liên hệ quản lý để được mở lại.\n- App tự dọn các file tạm (PDF gộp, bản sao tờ khai, ảnh thông báo, file chẩn đoán cũ) mỗi lần mở. Các bản sao lưu tự động chỉ giữ ngắn hạn (khoảng 7 ngày), nếu cần hoàn tác sau khi nhập thì làm sớm.\n- Sửa lỗi nút Sao chép làm sai chữ có dấu khi dán, và lỗi hộp lọc cột (gõ tìm rồi bấm Áp dụng bị hiện lại toàn bộ bảng).\n- Cập nhật mục Hướng dẫn cho đúng với thực tế.\n- Sửa một số lỗi nhỏ.",
+  "download_url": "https://github.com/tienkt5k7-lang/Du-lieu-thue-TNCN---Iglocal/releases/download/v1.0.2/DuLieuThueTNCN_Setup_v1.0.2_x64.exe",
+  "sha256": "2bf69890bc826c3c0bb1a6750b8e3887d29f694ea310017a26b34ad1694dab0f",
   "min_app_version": "1.0.0"
 }
